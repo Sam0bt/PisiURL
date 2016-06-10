@@ -8,4 +8,4 @@ Type=Application
 X-MultipleArgs=True
 MimeType=x-scheme-handler/pisi
 Encoding=UTF-8
-Categories=Network;Application;
+Categories=Network;
