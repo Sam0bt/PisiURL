@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=pisi
+Comment= Pisi Hızlı Paket Yükleme Aracı
+Exec=/var/opt/komut.sh %U
+Icon=myicon
+Terminal=0
+Type=Application
+X-MultipleArgs=True
+MimeType=x-scheme-handler/pisi
+Encoding=UTF-8
+Categories=Network;Application;
