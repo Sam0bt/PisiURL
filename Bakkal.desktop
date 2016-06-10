@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=PidiURL
+Name=PisiURL
 Comment= Pisi Hızlı Paket Yükleme Aracı
 Exec=/var/opt/PisiURL.sh %U
 Icon=myicon
