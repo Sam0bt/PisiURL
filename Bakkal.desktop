@@ -1,7 +1,7 @@
 [Desktop Entry]
-Name=pisi
+Name=PidiURL
 Comment= Pisi Hızlı Paket Yükleme Aracı
-Exec=/var/opt/komut.sh %U
+Exec=/var/opt/PisiURL.sh %U
 Icon=myicon
 Terminal=0
 Type=Application
