@@ -11,7 +11,6 @@ sudo pisi it gconf-devel-3.2.6-5-p2-x86_64.pisi
 
 **********
 
-İndir : https://pisi.slack.com/files/samibabat/F1B4W3XKN/pisi.tar.gz <br>
 PisiURL.sh dosyasını /var/opt dizinine kopyala<br>
 PisiURL.sh dosyasına okuma ve yazma izinlerini ver ve kullanıcı user olsun.<br>
 Bakkal.desktop dosyasını /usr/share/applications dizinine taşı<br>
