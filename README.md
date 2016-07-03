@@ -1,18 +1,17 @@
 # PisiURL
 # NOT:
-<h3><font color="red">Sistem Pisi 2.0 ise Gconf yüklü değildir. Gconf yüklemek için:</font></h3>
+<h3><font color="red">Dconf yüklü Olmalıdır. <br> Öğrenmek için <code>sudo pisi info dconf</code><br> yüklü değil ise yüklemek için:</font></h3>
 
-sudo pisi bi https://raw.githubusercontent.com/pisilinux/contrib/dc4e32b22936e591033cd45d5fb148183065cd2c/desktop/gnome/gconf/pspec.xml<br>
-sudo pisi it gconf-3.2.6-5-p2-x86_64.pisi<br>
-sudo pisi it gconf-devel-3.2.6-5-p2-x86_64.pisi<br>
+<code>sudo pisi it dconf</code>
+<br>
 <hr>
 
 # PisiURL Kurulum
-sudo chmod 777 -R install.sh<br>
-./install.sh
+<code>sudo chmod 777 -R install.sh</code><br>
+<code>./install.sh</code>
 <hr>
 # TEST
-xdg-open pisi://aircrack-ng
+<code>xdg-open pisi://aircrack-ng</code>
 <hr>
 # WEB TEST
 http://bakkal.linuxdiyari.com/package.php?package=aircrack-ng (Pisi Linux İçin Kur)
