@@ -1,5 +1,6 @@
 #!/bin/bash
 
-d=${1#pisi://}
-pm-install "$d"
+Url=${1#pisi://}
+# xdg-su -c "pisi it $Url" // Beklemede
+pm-install "$Url"
 exit
