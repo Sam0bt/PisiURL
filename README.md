@@ -15,4 +15,4 @@ sudo chmod 777 -R install.sh<br>
 xdg-open pisi://aircrack-ng
 <hr>
 # WEB TEST
-http://bakkal.atolye-sam.xyz/package.php?package=aircrack-ng (Pisi Linux İçin Kur)
+http://bakkal.linuxdiyari.com/package.php?package=aircrack-ng (Pisi Linux İçin Kur)
