@@ -1,6 +1,6 @@
 # PisiURL
 # NOT:
-<h3><font color="red">Dconf yüklü Olmalıdır. </h3> Yüklü olduğunu Öğrenmek için: <br> <code>sudo pisi info dconf</code><br> yüklü değil ise yüklemek için:</font></h3>
+<h3><font color="red">Dconf yüklü Olmalıdır. </h3>  Öğrenmek için:  <code>sudo pisi info dconf</code><br> yüklü değil ise yüklemek için:</font>
 
 <code>sudo pisi it dconf</code>
 <br>
