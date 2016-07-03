@@ -1,8 +1,9 @@
 # PisiURL v1 Beta
-# NOT:
+<blockquote><h3NOT:</h3>
 <h3>Dconf yüklü Olmalıdır. </h3>  Öğrenmek için:  <code>sudo pisi info dconf</code><br><br> yüklü değil ise yüklemek için:
 <code>sudo pisi it dconf</code>
 <br>
+</blockquote>
 <hr>
 
 # PisiURL Kurulum
