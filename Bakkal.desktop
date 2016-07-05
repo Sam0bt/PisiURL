@@ -2,8 +2,8 @@
 Name=PisiURL
 Comment= Pisi Hızlı Paket Yükleme Aracı
 Exec=/var/opt/PisiURL.sh %U
-Icon=myicon
-Terminal=1
+Icon=/usr/share/pixmaps/plymouth-pisilinux.png
+Terminal=0
 Type=Application
 X-MultipleArgs=True
 MimeType=x-scheme-handler/pisi
