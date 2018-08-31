@@ -15,4 +15,4 @@
 <code>xdg-open pisi://aircrack-ng</code>
 <hr>
 # WEB TEST
-http://bakkal.linuxdiyari.com/package.php?package=aircrack-ng (Pisi Linux İçin Kur)
+http://samibabat.com/apps/Bakkal/package.php?package=Bluefish (Pisi Linux İçin Kur)
