@@ -1,0 +1,39 @@
+<PISI>
+    <Source>
+        <Name>sublimetex3</Name>
+        <Homepage>https://www.sublimetext.com/</Homepage>
+        <Packager>
+            <Name>Sami Babat</Name>
+            <Email>sami.babat@gmail.com</Email>
+        </Packager>
+        <License>Apache</License>
+        <PartOf>editor</PartOf>
+        <IsA>app:gui</IsA>
+        <Summary>Sublime Text, içinde birçok programlama dili arayüzü barındıran, çapraz platform bir kaynak kod düzenleme ve metin editörüdür</Summary>
+        <Description>Sublime Text, içinde birçok programlama dili arayüzü barındıran, çapraz platform bir kaynak kod düzenleme ve metin editörüdür</Description>
+        <Icon>sublimetext</Icon>
+        <Archive type="tarbz2" sha1sum="da573c2870c079b7d4cdb2c6b0c94d3911c0a747">https://download.sublimetext.com/sublime_text_3_build_3176_x64.tar.bz2</Archive>
+    </Source>
+    <Package>
+        <Name>sublimetext3</Name>
+        <Files>
+			<Path fileType="data">/usr/bin</Path>
+            <Path fileType="data">/usr/share</Path>
+			<Path fileType="icon">/usr/share/pixmaps</Path>
+        </Files>
+		<AdditionalFiles>
+            <AdditionalFile owner="root" permission="0644" target="/usr/share/applications/sublime_text.desktop">sublime_text.desktop</AdditionalFile>
+            <AdditionalFile owner="root" permission="0644" target="/usr/share/pixmaps/sublime-text.png">sublime-text.png</AdditionalFile>
+</AdditionalFiles> 
+        <Summary>Sublimetext3</Summary>
+    </Package>
+    <History>
+        <Update release="1">
+            <Date>2018-09-05</Date>
+            <Version>3.1.1</Version>
+            <Comment>Sublime Text, içinde birçok programlama dili arayüzü barındıran, çapraz platform bir kaynak kod düzenleme ve metin editörüdür</Comment>
+            <Name>Sami Babat</Name>
+            <Email>sami.babat@gmail.com</Email>
+        </Update>
+    </History>
+</PISI>
