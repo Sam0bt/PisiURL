@@ -13,6 +13,5 @@
 <hr>
 # TEST
 <code>xdg-open pisi://aircrack-ng</code>
-<hr>
-# WEB TEST
-http://samibabat.com/apps/Bakkal/package.php?package=Bluefish (Pisi Linux İçin Kur)
+
+
