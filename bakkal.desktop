@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=PisiURL
+Comment= Pisi Hızlı Paket Yükleme Aracı
+Exec=/usr/bin/PisiURL.sh %U
+Icon=/usr/share/pixmaps/plymouth-pisilinux.png
+Terminal=0
+Type=Application
+X-MultipleArgs=True
+MimeType=x-scheme-handler/pisi
+Encoding=UTF-8
+Categories=Network; 
