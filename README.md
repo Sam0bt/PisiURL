@@ -12,6 +12,6 @@
 <code>./install.sh</code>
 <hr>
 # TEST
-<code>xdg-open pisi://aircrack-ng</code>
+<code>xdg-open pisi://firefox</code>
 
 
